@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: palevioletred;
+    height: 100vh;
+}
+
+.bloczek{
+    float: left;
+    width: 150px;
+    height: 150px;
+    background-color: aliceblue;
+    margin: 10px;
+    padding: 10px;
+    border: 5px double slateblue
+}
+
+.bloczek:nth-child(2){
+    width: calc(100% - 180px - 20px - 20px - 30px);
+}
+
+.bloczek:nth-child(3){
+    width: calc(100% - 180px - 20px - 20px - 30px);
+}
+
+.bloczek:nth-child(5){
+    width: calc(100% - 50px);
+}
+
+#clear{
+    clear: both;
+}
+
+
+
+
+
+

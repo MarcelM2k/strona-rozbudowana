@@ -1,0 +1,129 @@
+body{
+    background-color: rgb(212, 211, 211);
+    height: 100vh;
+
+    table, td{
+        border: 1px solid black;
+    }
+}
+
+.hr{
+    border-width: 2px;
+    border-style: dashed;
+    border-color: black;
+}
+
+#nagrody2{
+    margin-left: 10px;
+    font-size: 20px;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+#nagrody{
+    margin-left: 10px;
+    margin-bottom: 5px;
+    background-color: rgb(253, 241, 226);
+}
+
+#tytul{
+    color: rgb(6, 68, 6);
+    font-size: 50px;
+    text-align: center;
+}
+
+#zagadnienianapis{
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#przybory{
+    margin-left: 10px;
+    background-color: rgb(253, 241, 226);
+}
+
+#czas{
+    margin-left: 10px;
+    color: green;
+    font-size: 30px;
+    font-family: bold;
+    margin-bottom: 5px;
+}
+
+#zagadnieniapotrzebne{
+    margin-left: 0;
+    margin-top: 0;
+    font-size: 20px;
+}
+
+#czerwony{
+    color: red;
+}
+
+#regulamin{
+    margin-top: 0px;
+    font-size: 20px;
+}
+
+.zgłoszenie{
+    margin-left: 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+#wyslij{
+    margin-bottom: 2px;
+    margin-left: 50px;
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
+
+#regulaminnapis{
+    background-color: rgb(219, 208, 196);
+    font-size: 25px;
+    width: 115px;
+    height: 20px;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+#opiekun{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.borderstyle{
+    border-style: dashed;
+
+}
+
+#drugaczesc{
+    border-style: dashed;
+}
+
+#formularzgloszeniowy{
+    margin-left: 10px;
+}
+
+#zeroczesc{
+    border-style: dashed;
+}
+
+#slask{
+    margin-left: 2px;
+    width: 150px;
+}
+
+#teb{
+    margin-left: 2px;
+    margin-bottom: 15px;
+}
+
+
+
+
+
